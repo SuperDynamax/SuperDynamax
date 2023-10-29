@@ -117,3 +117,8 @@
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000" />
+
+<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://raw.githubusercontent.com/dibyendu415/dibyendu415/master/marquee.svg" />
+
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000" />
