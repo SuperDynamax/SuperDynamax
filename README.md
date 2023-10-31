@@ -16,7 +16,7 @@
   <div align="right">
     <img src="https://avatars.githubusercontent.com/u/106766934?" style="border-radius: 100px; height: 200px; display: block;" />
   </div>-->
-  <img src="./profile.png" alt="Unable to load due to github's fault."/>
+  <img src="https://imgdb.net/storage/uploads/f1a113c6dc6ba3e78eb85d550a4b50e9bf0249bb4f6b111df6b68245650c3a6f.png" alt="Unable to load due to github's fault."/>
 </div>
 
 <div align="center">
@@ -58,10 +58,10 @@
     <br />
     <p></p>
     <p></p>
-   <img align="center" style="margin-bottom: 40px" src="https://github-readme-streak-stats.herokuapp.com?user=SuperDynamax&amp;theme=merko&amp;date_format=M%20j%5B%2C%20Y%5D" />
+   <!--<img align="center" style="margin-bottom: 40px" src="https://github-readme-streak-stats.herokuapp.com?user=SuperDynamax&amp;theme=merko" />
     <br />
     <p></p>
-    <p></p>
+    <p></p>-->
    <img align="center" style="margin-bottom: 50px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperDynamax&amp;layout=compact&amp;theme=merko" />
        <p></p>
     <p></p>
