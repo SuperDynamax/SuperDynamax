@@ -88,7 +88,7 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=shark&amp;height=30&amp;section=header&amp;reversal=false&amp;color=0:b579da,100:79da7f" />
-  <h4>
+  <h4 align="center">
 
     @@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @@
     @@       o o                                           @@
